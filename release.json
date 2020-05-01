@@ -17,6 +17,16 @@
         "description": "-",
         "preview":"https://raw.githubusercontent.com/FateM380/EroBGYakiyui/assets/preview.jpg",
         "homepage": "https://github.com/FateM380/EroBGYakiyui.git"
+    },
+
+    {
+        "id": "BGAkaihaato",
+        "version": "1.0.0",
+        "name": "桌布赤井心",
+        "author": "月天翔",
+        "description": "Vtuber赤井心桌布",
+        "preview":"https://raw.githubusercontent.com/FateM380/BGAkaihaato/assets/preview.jpg",
+        "homepage": "https://github.com/FateM380/BGAkaihaato.git"
     }
 
     
