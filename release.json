@@ -7,8 +7,17 @@
         "description": "-",
         "preview":"https://raw.githubusercontent.com/FateM380/EroBG/assets/preview.jpg",
         "homepage": "https://github.com/FateM380/EroBG.git"
-    }
+    },
 
+    {
+        "id": "EroBGYakiyui",
+        "version": "1.0.0",
+        "name": "Ero桌布八木唯",
+        "author": "-",
+        "description": "-",
+        "preview":"https://raw.githubusercontent.com/FateM380/EroBGYakiyui/assets/preview.jpg",
+        "homepage": "https://github.com/FateM380/EroBG.git"
+    }
 
     
 ]
