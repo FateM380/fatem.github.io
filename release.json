@@ -27,7 +27,16 @@
         "description": "Vtuber赤井心桌布",
         "preview":"https://raw.githubusercontent.com/FateM380/BGAkaihaato/assets/preview.jpg",
         "homepage": "https://github.com/FateM380/BGAkaihaato.git"
+    },
+    
+        {
+        "id": "yagiyui_Hbondportrait",
+        "version": "1.0.0",
+        "name": "八木唯立绘魔改（羁绊）",
+        "author": "裏天翔",
+        "description": "八木唯羁绊立绘工口魔改。",
+        "preview":"https://raw.githubusercontent.com/FateM380/yagiyui_Hbondportrait/preview.jpg",
+        "homepage": "https://github.com/FateM380/yagiyui_Hbondportrait.git"
     }
-
     
 ]
