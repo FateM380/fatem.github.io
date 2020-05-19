@@ -29,7 +29,7 @@
         "homepage": "https://github.com/FateM380/BGAkaihaato.git"
     },
     
-        {
+    {
         "id": "yagiyui_Hbondportrait",
         "version": "1.0.1",
         "name": "八木唯立绘魔改（羁绊）",
@@ -39,4 +39,13 @@
         "homepage": "https://github.com/FateM380/yagiyui_Hbondportrait.git"
     }
     
+    {
+        "id": "mikamitiori_Hportrait",
+        "version": "1.0.0",
+        "name": "三上千织立绘魔改",
+        "author": "裏天翔",
+        "description": "三上千织立绘工口魔改。",
+        "preview":"https://raw.githubusercontent.com/FateM380/mikamitiori_Hportrait/preview.jpg",
+        "homepage": "https://github.com/FateM380/mikamitiori_Hportrait.git"
+    }
 ]
